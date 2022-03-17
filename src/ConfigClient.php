@@ -41,6 +41,6 @@ class ConfigClient extends AbstractConfigClient
      */
     public static function getClientAlias()
     {
-        return 'tonkawa-vip';
+        return 'parx-vip';
     }
 }
