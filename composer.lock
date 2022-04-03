@@ -1099,7 +1099,7 @@
         },
         {
             "name": "engaged-nation/lib-central-admin-client",
-            "version": "dev-master",
+            "version": "v2.48.0",
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/lib-central-admin-client.git",
@@ -1227,12 +1227,12 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:Engaged-Nation/portal-core.git",
-                "reference": "ccb6b6ab0d72a045afc2b3307b693a89c02af3fc"
+                "reference": "dfa3a6fd6511c6b9bdcde0f4c5381d85089114e5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Engaged-Nation/portal-core/zipball/ccb6b6ab0d72a045afc2b3307b693a89c02af3fc",
-                "reference": "ccb6b6ab0d72a045afc2b3307b693a89c02af3fc",
+                "url": "https://api.github.com/repos/Engaged-Nation/portal-core/zipball/dfa3a6fd6511c6b9bdcde0f4c5381d85089114e5",
+                "reference": "dfa3a6fd6511c6b9bdcde0f4c5381d85089114e5",
                 "shasum": ""
             },
             "require": {
@@ -1284,7 +1284,7 @@
                 "source": "https://github.com/Engaged-Nation/portal-core/tree/rc",
                 "issues": "https://github.com/Engaged-Nation/portal-core/issues"
             },
-            "time": "2022-03-17T21:51:32+00:00"
+            "time": "2022-03-25T19:15:44+00:00"
         },
         {
             "name": "grasmash/expander",
